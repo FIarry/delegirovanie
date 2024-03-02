@@ -1,1 +1,1 @@
-# delegirovanie
+https://fiarry.github.io/delegirovanie/
